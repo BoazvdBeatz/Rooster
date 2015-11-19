@@ -1,1 +1,13 @@
-Hallo
+Op een school geven docenten les aan leerlingen. 
+-De docenten geven les in ten minste één vak  maar het kan ook voorkomen dat een docent in meerdere vakken les geeft bijvoorbeeld scheikunde en ANW of wiskunde en informatica. 
+-De leerlingen zitten in klassen zoals B1G of M2A of A4D etc. 
+-De leerlingen in een bepaalde klas moeten een aantal vakken volgen.  
+-De lessen vinden plaats in lokalen. Er zijn sommige lokalen die een bepaalde functie hebben zoals het drama lokaal, het muziek lokaal, het scheikunde lokaal, het natuurkunde lokaal. 
+ Maar de meeste lokalen hebben geen vaste functie. 
+-De lessen duren  50 minuten  (maar dit moet je ook kunnen wijzigen in 70 min) en om de twee lesuren is er een pauze van 20 minuten. 
+-Er kunnen maximaal 8 lesuren per dag gegeven worden.
+-Er is een probleem met het rooster en er wordt gekeken naar een nieuw systeem om roosters te maken.
+-Maak een systeem waarmee je aan de hand van gegevens die voor elke docent en lokaal beschikbaar zijn voor de verschillende klassen een rooster kan maken.
+-Dit systeem kent de volgende soorten gebruikers: beheerders, de roostermakers, administrators, deelnemers.
+-De beheerder kan de rechten van de gebruikers aanpassen. De administrators zorgen voor de invoer van de klassen, lokalen en docenten. 
+ De deelnemers zijn leerlingen en docenten. Zij kunnen op een webpagina hun rooster bekijken.
